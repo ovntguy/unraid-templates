@@ -16,7 +16,7 @@ Add printers: Administration &amp;gt; Printers &amp;gt; Add Printer&#xD;
 Note: The admin user/password for the Cups server is admin/admin</Overview>
   <Category>Tools: Network:Other Status:Beta</Category>
   <WebUI>https://[IP]:[PORT:631]/</WebUI>
-  <TemplateURL>https://raw.githubusercontent.com/josecoelho/unraid-templates/master/cups/cups.xml</TemplateURL>
+  <TemplateURL>https://raw.githubusercontent.com/ovntguy/unraid-templates/main/cups.xml</TemplateURL>
   <Icon>https://raw.githubusercontent.com/josecoelho/unraid-templates/main/cups/cups.png</Icon>
   <ExtraParams>--restart=always</ExtraParams>
   <PostArgs/>
